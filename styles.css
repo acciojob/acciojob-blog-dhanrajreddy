@@ -1,10 +1,14 @@
-/*  your css code here. If applicable */
- h1{
-            text-align:center;
+<style>
+        h1 {
+            text-align: center;
         }
-        a,p{
+
+        a,
+        p {
             color: blue;
         }
-        img{
+
+        img {
             height: 200px;
         }
+    </style>
