@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
-h1{
-	text-align:center;
-}
-
-img{
-	height:200px;
-}
+ h1{
+            text-align:center;
+        }
+        a,p{
+            color: blue;
+        }
+        img{
+            height: 200px;
+        }
